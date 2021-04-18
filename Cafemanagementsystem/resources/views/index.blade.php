@@ -166,7 +166,7 @@
                          <th>Item</th>
                          <th>Price</th>
                          <th>Qty</th>
-                         <th>Total</th>
+                         <th>Total amount</th>
                 </tr>
  
                 <tbody>
